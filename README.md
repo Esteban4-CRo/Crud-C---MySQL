@@ -50,3 +50,4 @@ mysqlcppconn-static.lib
 
 Importante: Asegúrate de que el proyecto esté en modo Release.
 Si está en modo Debug, pueden aparecer errores de vinculación.
+Solo importa la tabla de sql en XAMPP y listo.
