@@ -44,6 +44,7 @@ En General:
 Agregar en Directorios de bibliotecas adicionales la ruta: MySQL/lib64/vs14.
 
 En Entrada:
+
 Agregar en Dependencias adicionales:
 mysqlcppconn-static.lib
 
